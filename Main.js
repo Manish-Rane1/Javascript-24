@@ -4,5 +4,5 @@ function three(){
     document.write("output Using for loop is in console")
     for (var i in arr)
 {
-    console.log(arr[i]+"<br>")
+    console.log(arr[i])
 }}
